@@ -1,6 +1,7 @@
 # Personal Résumé
  * Name: Tim Simaile
  * LinkedIn: [https://www.linkedin.com/in/tsimaile/](https://www.linkedin.com/in/tsimaile/)
+ * GitHub: [https://github.com/tsimaile](https://github.com/tsimaile)
  * Email: [tsimaile@gmail.com](mailto:tsimaile@gmail.com)
 
 ## About
@@ -14,7 +15,7 @@
     * Operate, maintain, and administer the operational efficiency, availability, and visibility of Windows, IIS, SQL Server, and Citrix servers, applications, and environments
     * Plan and execute maintenance work, design documentation and standard procedures
     * Provide frontline incident response, and follow-up with root cause analysis and problem management
-    * Observe and provide feedback on the current state of infrastructure configuration, and identify opportunities to improve resiliency, security, automation, and reduce incidents
+    * Observe and provide feedback on the current state of infrastructure configuration, and identify opportunities to improve resiliency, security, automation, and reduce incidents ([posh-tools](https://github.com/tsimaile/posh-tools))
     * Contribute to, improve, and maintain team documentation about applications and infrastructure, procedures, policies, and schedules
     * Collect and document audit activities, and perform data analysis to identify opportunities for improvement and deployment of best practices
     * Advise, design, and implement greenfield deployments of on-premises web and Citrix applications, including network landscape, load-balancing, firewall rules, installation, and configuration
@@ -111,7 +112,7 @@
 * *2019*, [Elasticsearch Engineer II](/assets/pdf/20190926-Elastic_Engineer_2.pdf)
 * *2019*, [Elasticsearch Engineer I](/assets/pdf/20190808-Elastic_Engineer_1.pdf)
 
-### **![CSU logo](/assets/images/logo_16_csu.png) [Charles Sturt University](https://www.csu.edu.au/) and [IT Masters](https://itmasters.edu.au/)**
+### **![CSU logo](/assets/images/logo_16_csu.png) [Charles Sturt University](https://www.csu.edu.au/) and ![ITM logo](/assets/images/logo_16_itm.png) [IT Masters](https://itmasters.edu.au/)**
 * *2019*, [Short Course: Pen Testing](/assets/pdf/20190317-CSU_Pen_Testing_Certificate_of_Achievement.pdf) High Distinction (100/100)
 
 ### **![Boomi logo](/assets/images/logo_16_boomi.png) [Dell Boomi](https://boomi.com/services/training/)**
