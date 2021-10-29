@@ -113,6 +113,7 @@
 * *2019*, [Elasticsearch Engineer I](/assets/pdf/20190808-Elastic_Engineer_1.pdf)
 
 ### **![CSU logo](/assets/images/logo_16_csu.png) [Charles Sturt University](https://www.csu.edu.au/) and ![ITM logo](/assets/images/logo_16_itm.png) [IT Masters](https://itmasters.edu.au/)**
+* *2021*, [Short Course: Cryptography](/assets/pdf/20211029-CSU_Cryptography_Certificate_of_Achievement.pdf) High Distinction (93/100)
 * *2019*, [Short Course: Pen Testing](/assets/pdf/20190317-CSU_Pen_Testing_Certificate_of_Achievement.pdf) High Distinction (100/100)
 
 ### **![Boomi logo](/assets/images/logo_16_boomi.png) [Dell Boomi](https://boomi.com/services/training/)**
