@@ -1,5 +1,4 @@
-# Personal Résumé
- * Name: Tim Simaile
+# Tim Simaile
  * LinkedIn: [https://www.linkedin.com/in/tsimaile/](https://www.linkedin.com/in/tsimaile/)
  * GitHub: [https://github.com/tsimaile/](https://github.com/tsimaile/)
  * Blog: [https://tsimaile.blogspot.com/](https://tsimaile.blogspot.com/)
