@@ -2,6 +2,7 @@
  * Name: Tim Simaile
  * LinkedIn: [https://www.linkedin.com/in/tsimaile/](https://www.linkedin.com/in/tsimaile/)
  * GitHub: [https://github.com/tsimaile](https://github.com/tsimaile)
+ * Blog: [https://tsimaile.blogspot.com/](https://tsimaile.blogspot.com/)
  * Email: [tsimaile@gmail.com](mailto:tsimaile@gmail.com)
 
 ## About
@@ -12,7 +13,7 @@
 
 ### **![SCU logo](/assets/images/logo_16_scu.png) [Southern Cross University, NSW AU](https://www.scu.edu.au/)**
 * **[Senior Technical Support Officer](https://www.scu.edu.au/about/contacts/staff-directory/staff/34442.php)**, *Nov 2012 – Present*
-    * Operate, maintain, and administer the operational efficiency, availability, and visibility of Windows, IIS, SQL Server, and Citrix servers, applications, and environments
+    * Operate, maintain, and administer the operational efficiency, availability, security, and visibility of Windows, IIS, SQL Server, and Citrix servers, applications, and environments
     * Plan and execute maintenance work, design documentation and standard procedures
     * Provide frontline incident response, and follow-up with root cause analysis and problem management
     * Observe and provide feedback on the current state of infrastructure configuration, and identify opportunities to improve resiliency, security, automation, and reduce incidents ([posh-tools](https://github.com/tsimaile/posh-tools))
@@ -27,7 +28,7 @@
         * Elastic Kibana
         * Microsoft BizTalk
         * Microsoft SQL Server Integration Services
-    * Assess and action Tier-1 database scripts and maintenance on SQL Server and Oracle platforms, and escalate as appropriate
+    * Assess and action database scripts, and maintain SQL Server and Oracle platforms, including daily checks and fleet benchmarks
     * Founding [SCU Chess Club](https://www.chess.com/club/southern-cross-university-chess-club) President, and organise and direct onsite and online tournaments
 * **Technical Project Officer**, *May 2012 – Nov 2012*
     * Migrate desktop and laptop devices from Windows XP to Windows 7
