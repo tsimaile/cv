@@ -1,7 +1,7 @@
 # Personal Résumé
  * Name: Tim Simaile
  * LinkedIn: [https://www.linkedin.com/in/tsimaile/](https://www.linkedin.com/in/tsimaile/)
- * GitHub: [https://github.com/tsimaile](https://github.com/tsimaile)
+ * GitHub: [https://github.com/tsimaile/](https://github.com/tsimaile/)
  * Blog: [https://tsimaile.blogspot.com/](https://tsimaile.blogspot.com/)
  * Email: [tsimaile@gmail.com](mailto:tsimaile@gmail.com)
 
@@ -28,7 +28,7 @@
         * Elastic Kibana
         * Microsoft BizTalk
         * Microsoft SQL Server Integration Services
-    * Assess and action database scripts, and maintain SQL Server and Oracle platforms, including daily checks and fleet benchmarks
+    * Assess and action database scripts, and maintain SQL Server and Oracle platforms, including daily checks and [fleet benchmarks](https://github.com/tsimaile/posh-tools/tree/main/benchmark)
     * Founding [SCU Chess Club](https://www.chess.com/club/southern-cross-university-chess-club) President, and organise and direct onsite and online tournaments
 * **Technical Project Officer**, *May 2012 – Nov 2012*
     * Migrate desktop and laptop devices from Windows XP to Windows 7
