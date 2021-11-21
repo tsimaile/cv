@@ -1,7 +1,7 @@
- >  [LinkedIn](https://www.linkedin.com/in/tsimaile/) | [GitHub](https://github.com/tsimaile/) | [Blog](https://tsimaile.blogspot.com/) | [CV](https://tsimaile.github.io/cv/) | [tsimaile@gmail.com](mailto:tsimaile@gmail.com) |
-
 # Tim Simaile
 
+ * [CV](https://tsimaile.github.io/cv/) | [LinkedIn](https://www.linkedin.com/in/tsimaile/) | [GitHub](https://github.com/tsimaile/) | [Blog](https://tsimaile.github.io/blog/)
+ 
 ## Puzzle solving with engagement and documentation
 
 Goal-oriented and experienced educator and IT professional, with proven ability to initiate, plan, and implement teaching and technical projects. Able to lead critical teams through problem analysis and data integration, and develop solutions and document references for technical users and customer training. 
@@ -22,12 +22,12 @@ Goal-oriented and experienced educator and IT professional, with proven ability 
     * Participate in on-call rotation for incident escalation
     * Liaise with vendors, business, and infrastructure teams to coordinate activities, ensure service delivery levels, and optimise performance
     * Deploy, configure, and monitor application interfaces and integrations, via
-        * Dell Boomi
-        * Elastic Kibana
-        * Microsoft BizTalk
-        * Microsoft SQL Server Integration Services
+        * [Dell Boomi](https://boomi.com/)
+        * [Elastic Kibana](https://www.elastic.co/kibana/)
+        * [Microsoft BizTalk](https://partner.microsoft.com/en-au/solutions/microsoft-biztalk-server)
+        * [Microsoft SQL Server Integration Services](https://docs.microsoft.com/en-us/sql/integration-services/sql-server-integration-services?view=sql-server-ver15)
     * Assess and action database scripts, and maintain SQL Server and Oracle platforms, including daily checks and [fleet benchmarks](https://github.com/tsimaile/posh-tools/tree/main/benchmark)
-    * Founding [SCU Chess Club](https://www.chess.com/club/southern-cross-university-chess-club) President, and organise and direct onsite and online tournaments
+    * Founding President of [SCU Chess Club](https://www.chess.com/club/southern-cross-university-chess-club); organisor and director of onsite and online tournaments
 * **Technical Project Officer**, *May 2012 – Nov 2012*
     * Migrate desktop and laptop devices from Windows XP to Windows 7
     * Migrate client email (Outlook, Eudora, MacMail, Thunderbird) to Microsoft O365 cloud service
