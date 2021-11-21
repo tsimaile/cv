@@ -1,8 +1,4 @@
- >  [LinkedIn](https://www.linkedin.com/in/tsimaile/) |
-    [GitHub](https://github.com/tsimaile/) |
-    [Blog](https://tsimaile.blogspot.com/) |
-    [CV](https://tsimaile.github.io/cv/) |
-    [tsimaile@gmail.com](mailto:tsimaile@gmail.com) |
+ >  [LinkedIn](https://www.linkedin.com/in/tsimaile/) | [GitHub](https://github.com/tsimaile/) | [Blog](https://tsimaile.blogspot.com/) | [CV](https://tsimaile.github.io/cv/) | [tsimaile@gmail.com](mailto:tsimaile@gmail.com) |
 
 # Tim Simaile
 
