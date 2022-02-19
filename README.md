@@ -98,6 +98,9 @@ Goal-oriented and experienced educator and IT professional, with proven ability 
 ----
 ## Skills and Courses
 
+### **![HackerRank logo](https://tsimaile.github.io/cv/assets/images/logo_16_hackerrank.png) [HackerRank](https://www.hackerrank.com/tsimaile)**
+* *2021*, [SQL (Basic)](https://www.hackerrank.com/certificates/b58a7b131f19)
+
 ### **![Microsoft logo](https://tsimaile.github.io/cv/assets/images/logo_16_microsoft.png) [Microsoft](https://www.microsoft.com/)**
 * *2021*, [Windows Powershell: Tool Building WorkshopPlus](https://tsimaile.github.io/cv/assets/pdf/20210520-MS_Windows_PowerShell_Tool_Building_WorkShopPlus.pdf)
 * *2018*, [Windows Powershell: Desired State Configuration WorkshopPlus](https://tsimaile.github.io/cv/assets/pdf/20180406-MS_Windows_Powershell_DSC_WorkShopPlus.pdf)
