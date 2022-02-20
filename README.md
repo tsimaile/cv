@@ -99,7 +99,7 @@ Goal-oriented and experienced educator and IT professional, with proven ability 
 ## Skills and Courses
 
 ### **![HackerRank logo](https://tsimaile.github.io/cv/assets/images/logo_16_hackerrank.png) [HackerRank](https://www.hackerrank.com/tsimaile)**
-* *2021*, [SQL (Basic)](https://www.hackerrank.com/certificates/b58a7b131f19)
+* *2022*, [SQL (Basic)](https://www.hackerrank.com/certificates/b58a7b131f19)
 
 ### **![Microsoft logo](https://tsimaile.github.io/cv/assets/images/logo_16_microsoft.png) [Microsoft](https://www.microsoft.com/)**
 * *2021*, [Windows Powershell: Tool Building WorkshopPlus](https://tsimaile.github.io/cv/assets/pdf/20210520-MS_Windows_PowerShell_Tool_Building_WorkShopPlus.pdf)
@@ -115,6 +115,7 @@ Goal-oriented and experienced educator and IT professional, with proven ability 
 * *2019*, [Elasticsearch Engineer I](https://tsimaile.github.io/cv/assets/pdf/20190808-Elastic_Engineer_1.pdf)
 
 ### **![CSU logo](https://tsimaile.github.io/cv/assets/images/logo_16_csu.png) [Charles Sturt University](https://www.csu.edu.au/) and ![ITM logo](https://tsimaile.github.io/cv/assets/images/logo_16_itm.png) [IT Masters](https://itmasters.edu.au/)**
+* *2022*, [Short Course: CISSP (Updated)](https://tsimaile.github.io/cv/assets/pdf/20220220-CISSP_(Updated)_Certificate_of_Achievement.pdf) High Distinction (100/100)
 * *2021*, [Short Course: Cryptography](https://tsimaile.github.io/cv/assets/pdf/20211029-CSU_Cryptography_Certificate_of_Achievement.pdf) High Distinction (93/100)
 * *2019*, [Short Course: Pen Testing](https://tsimaile.github.io/cv/assets/pdf/20190317-CSU_Pen_Testing_Certificate_of_Achievement.pdf) High Distinction (100/100)
 
