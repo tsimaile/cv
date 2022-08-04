@@ -107,12 +107,12 @@ Goal-oriented and experienced educator and IT professional, with proven ability 
 * *2021*, [Windows Powershell: Tool Building WorkshopPlus](https://tsimaile.github.io/cv/assets/pdf/20210520-MS_Windows_PowerShell_Tool_Building_WorkShopPlus.pdf)
 * *2018*, [Windows Powershell: Desired State Configuration WorkshopPlus](https://tsimaile.github.io/cv/assets/pdf/20180406-MS_Windows_Powershell_DSC_WorkShopPlus.pdf)
 * *2015*, [Windows Powershell: V4.0 for the IT Professional (Part 2)](https://tsimaile.github.io/cv/assets/pdf/20150326-MS_Windows_Powershell_v4.0_Part2_WorkShopPlus.pdf)
-* *2013*, [IIS Adminstration, Troubleshooting and Best Practices WorkshopPLUS](https://tsimaile.github.io/cv/assets/pdf/20131024-MS_IIS_Administration_WorkShopPlus.pdf)
+* *2013*, [IIS Administration, Troubleshooting and Best Practices WorkshopPLUS](https://tsimaile.github.io/cv/assets/pdf/20131024-MS_IIS_Administration_WorkShopPlus.pdf)
 
 ### **![Elastic logo](https://tsimaile.github.io/cv/assets/images/logo_16_elastic.png) [Elastic](https://www.elastic.co/training/)**
 * *2021*, [Tradecraft School: Capture the Bug](https://tsimaile.github.io/cv/assets/pdf/20210819-Elastic_Tradecraft_School-Capture_The_Bug-Tim_Simaile.pdf)
-* *2019*, [Metrics Fundmentals](https://tsimaile.github.io/cv/assets/pdf/20191028-Elastic_Metrics_Fundamentals.pdf)
-* *2019*, [Logging Fundmentals](https://tsimaile.github.io/cv/assets/pdf/20191010-Elastic_Logging_Fundamentals.pdf)
+* *2019*, [Metrics Fundamentals](https://tsimaile.github.io/cv/assets/pdf/20191028-Elastic_Metrics_Fundamentals.pdf)
+* *2019*, [Logging Fundamentals](https://tsimaile.github.io/cv/assets/pdf/20191010-Elastic_Logging_Fundamentals.pdf)
 * *2019*, [Elasticsearch Engineer II](https://tsimaile.github.io/cv/assets/pdf/20190926-Elastic_Engineer_2.pdf)
 * *2019*, [Elasticsearch Engineer I](https://tsimaile.github.io/cv/assets/pdf/20190808-Elastic_Engineer_1.pdf)
 
