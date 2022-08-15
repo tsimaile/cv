@@ -99,7 +99,12 @@ Goal-oriented and experienced educator and IT professional, with proven ability 
 ## Skills and Courses
 
 ### **![dbt logo](https://tsimaile.github.io/cv/assets/images/logo_16_dbt.png) [dbt](https://courses.getdbt.com/)**
-* *2022*, [dbt Fundamentals](https://courses.getdbt.com/3eqex)
+* *2022*, [dbt Fundamentals](https://www.linkedin.com/posts/tsimaile_learn-the-fundamentals-of-analytics-engineering-activity-6964835063410683904-oOPz/)
+
+### **![CSU logo](https://tsimaile.github.io/cv/assets/images/logo_16_csu.png) [Charles Sturt University](https://www.csu.edu.au/) and ![ITM logo](https://tsimaile.github.io/cv/assets/images/logo_16_itm.png) [IT Masters](https://itmasters.edu.au/)**
+* *2022*, [Short Course: CISSP (Updated)](https://tsimaile.github.io/cv/assets/pdf/20220220-CISSP_(Updated)_Certificate_of_Achievement.pdf) High Distinction (100/100)
+* *2021*, [Short Course: Cryptography](https://tsimaile.github.io/cv/assets/pdf/20211029-CSU_Cryptography_Certificate_of_Achievement.pdf) High Distinction (93/100)
+* *2019*, [Short Course: Pen Testing](https://tsimaile.github.io/cv/assets/pdf/20190317-CSU_Pen_Testing_Certificate_of_Achievement.pdf) High Distinction (100/100)
 
 ### **![HackerRank logo](https://tsimaile.github.io/cv/assets/images/logo_16_hackerrank.png) [HackerRank](https://www.hackerrank.com/tsimaile)**
 * *2022*, [Problem Solving (Basic)](https://www.hackerrank.com/certificates/667e36b737ea)
@@ -118,11 +123,6 @@ Goal-oriented and experienced educator and IT professional, with proven ability 
 * *2019*, [Logging Fundamentals](https://tsimaile.github.io/cv/assets/pdf/20191010-Elastic_Logging_Fundamentals.pdf)
 * *2019*, [Elasticsearch Engineer II](https://tsimaile.github.io/cv/assets/pdf/20190926-Elastic_Engineer_2.pdf)
 * *2019*, [Elasticsearch Engineer I](https://tsimaile.github.io/cv/assets/pdf/20190808-Elastic_Engineer_1.pdf)
-
-### **![CSU logo](https://tsimaile.github.io/cv/assets/images/logo_16_csu.png) [Charles Sturt University](https://www.csu.edu.au/) and ![ITM logo](https://tsimaile.github.io/cv/assets/images/logo_16_itm.png) [IT Masters](https://itmasters.edu.au/)**
-* *2022*, [Short Course: CISSP (Updated)](https://tsimaile.github.io/cv/assets/pdf/20220220-CISSP_(Updated)_Certificate_of_Achievement.pdf) High Distinction (100/100)
-* *2021*, [Short Course: Cryptography](https://tsimaile.github.io/cv/assets/pdf/20211029-CSU_Cryptography_Certificate_of_Achievement.pdf) High Distinction (93/100)
-* *2019*, [Short Course: Pen Testing](https://tsimaile.github.io/cv/assets/pdf/20190317-CSU_Pen_Testing_Certificate_of_Achievement.pdf) High Distinction (100/100)
 
 ### **![Boomi logo](https://tsimaile.github.io/cv/assets/images/logo_16_boomi.png) [Dell Boomi](https://boomi.com/services/training/)**
 * *2018*, [Dell Boomi Associate Developer](https://tsimaile.github.io/cv/assets/pdf/20181008-Dell_Boomi_Associate_Developer.pdf)
