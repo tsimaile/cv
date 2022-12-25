@@ -26,6 +26,9 @@ Goal-oriented and experienced educator and IT professional, with proven ability 
         * [Elastic Kibana](https://www.elastic.co/kibana/)
         * [Microsoft BizTalk](https://partner.microsoft.com/en-au/solutions/microsoft-biztalk-server)
         * [Microsoft SQL Server Integration Services](https://docs.microsoft.com/en-us/sql/integration-services/sql-server-integration-services?view=sql-server-ver15)
+        * [GitHub](https://github.com/SouthernCrossUni)
+        * [dbt](https://cloud.getdbt.com/)
+        * [Snowflake](https://www.snowflake.com/)
     * Assess and action database scripts, and maintain SQL Server and Oracle platforms, including daily checks and [fleet benchmarks](https://github.com/tsimaile/posh-tools/tree/main/benchmark)
     * Founding President of [SCU Chess Club](https://www.chess.com/club/southern-cross-university-chess-club); organisor and director of onsite and online tournaments
 * **Technical Project Officer**, *May 2012 – Nov 2012*
@@ -97,6 +100,10 @@ Goal-oriented and experienced educator and IT professional, with proven ability 
 
 ----
 ## Skills and Courses
+
+### **![LinkedIn logo](https://tsimaile.github.io/cv/assets/images/logo_16_lin.png) [LinkedIn Learning](https://www.linkedin.com/learning/)**
+* *2022*, [SQL for Data Analysis](https://www.linkedin.com/learning/certificates/6f4efbbb9c309a56274b3c2eba8ab772629bb1a2337c174d39778224466a6f90)
+* *2022*, [Ehics in Information Security](https://www.linkedin.com/learning/certificates/9f55e270bf356757fab05b89e559f9ec619955033aae6a4a6ecc84ed86fd3e9f)
 
 ### **![dbt logo](https://tsimaile.github.io/cv/assets/images/logo_16_dbt.png) [dbt](https://courses.getdbt.com/)**
 * *2022*, [dbt Fundamentals](https://www.linkedin.com/posts/tsimaile_learn-the-fundamentals-of-analytics-engineering-activity-6964835063410683904-oOPz/)
