@@ -101,6 +101,13 @@ Goal-oriented and experienced educator and IT professional, with proven ability 
 ----
 ## Skills and Courses
 
+### **![Microsoft logo](https://tsimaile.github.io/cv/assets/images/logo_16_microsoft.png) [Microsoft](https://www.microsoft.com/)**
+* *2023*, [Windows PowerShell: IT Management WorkshopPLUS](https://tsimaile.github.io/cv/assets/pdf/20230125-MS_Windows_Powershell_IT_Management_WorkshopPlus.pdf)
+* *2021*, [Windows Powershell: Tool Building WorkshopPLUS](https://tsimaile.github.io/cv/assets/pdf/20210520-MS_Windows_PowerShell_Tool_Building_WorkShopPlus.pdf)
+* *2018*, [Windows Powershell: Desired State Configuration WorkshopPLUS](https://tsimaile.github.io/cv/assets/pdf/20180406-MS_Windows_Powershell_DSC_WorkShopPlus.pdf)
+* *2015*, [Windows Powershell: V4.0 for the IT Professional (Part 2)](https://tsimaile.github.io/cv/assets/pdf/20150326-MS_Windows_Powershell_v4.0_Part2_WorkShopPlus.pdf)
+* *2013*, [IIS Administration, Troubleshooting and Best Practices WorkshopPLUS](https://tsimaile.github.io/cv/assets/pdf/20131024-MS_IIS_Administration_WorkShopPlus.pdf)
+
 ### **![LinkedIn logo](https://tsimaile.github.io/cv/assets/images/logo_16_lin.png) [LinkedIn Learning](https://www.linkedin.com/learning/)**
 * *2022*, [SQL for Data Analysis](https://www.linkedin.com/learning/certificates/6f4efbbb9c309a56274b3c2eba8ab772629bb1a2337c174d39778224466a6f90)
 * *2022*, [Ehics in Information Security](https://www.linkedin.com/learning/certificates/9f55e270bf356757fab05b89e559f9ec619955033aae6a4a6ecc84ed86fd3e9f)
@@ -117,12 +124,6 @@ Goal-oriented and experienced educator and IT professional, with proven ability 
 * *2022*, [Problem Solving (Basic)](https://www.hackerrank.com/certificates/667e36b737ea)
 * *2022*, [Python (Basic)](https://www.hackerrank.com/certificates/0c6a0e763da8)
 * *2022*, [SQL (Basic)](https://www.hackerrank.com/certificates/b58a7b131f19)
-
-### **![Microsoft logo](https://tsimaile.github.io/cv/assets/images/logo_16_microsoft.png) [Microsoft](https://www.microsoft.com/)**
-* *2021*, [Windows Powershell: Tool Building WorkshopPlus](https://tsimaile.github.io/cv/assets/pdf/20210520-MS_Windows_PowerShell_Tool_Building_WorkShopPlus.pdf)
-* *2018*, [Windows Powershell: Desired State Configuration WorkshopPlus](https://tsimaile.github.io/cv/assets/pdf/20180406-MS_Windows_Powershell_DSC_WorkShopPlus.pdf)
-* *2015*, [Windows Powershell: V4.0 for the IT Professional (Part 2)](https://tsimaile.github.io/cv/assets/pdf/20150326-MS_Windows_Powershell_v4.0_Part2_WorkShopPlus.pdf)
-* *2013*, [IIS Administration, Troubleshooting and Best Practices WorkshopPLUS](https://tsimaile.github.io/cv/assets/pdf/20131024-MS_IIS_Administration_WorkShopPlus.pdf)
 
 ### **![Elastic logo](https://tsimaile.github.io/cv/assets/images/logo_16_elastic.png) [Elastic](https://www.elastic.co/training/)**
 * *2021*, [Tradecraft School: Capture the Bug](https://tsimaile.github.io/cv/assets/pdf/20210819-Elastic_Tradecraft_School-Capture_The_Bug-Tim_Simaile.pdf)
