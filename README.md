@@ -10,7 +10,7 @@ Goal-oriented and experienced educator and IT professional, with proven ability 
 ## **Experience**
 
 ### **![SCU logo](https://tsimaile.github.io/cv/assets/images/logo_16_scu.png) [Southern Cross University, NSW AU](https://www.scu.edu.au/)**
-* **[Senior Technical Support Officer](https://www.scu.edu.au/about/contacts/staff-directory/staff/34442.php)**, *Nov 2012 – Present*
+* **[Senior Technical Support Officer](https://www.scu.edu.au/about/contacts/directory/111397/)**, *Nov 2012 – Present*
     * Operate, maintain, and administer the operational efficiency, availability, security, and visibility of Windows, IIS, SQL Server, and Citrix servers, applications, and environments
     * Plan and execute maintenance work, design documentation and standard procedures
     * Provide frontline incident response, and follow-up with root cause analysis and problem management
