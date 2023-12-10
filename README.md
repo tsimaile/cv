@@ -102,8 +102,7 @@ Goal-oriented and experienced educator and IT professional, with proven ability 
 ## Skills and Courses
 
 ### **![Duolingo logo](https://tsimaile.github.io/cv/assets/images/logo_16_duolingo.png) [Duolingo](https://www.duolingo.com/profile/TimSimaile)**
-* *2023*, [Year in Review Stats](https://tsimaile.github.io/cv/assets/images/duolingo_2023_in_review_stats_share_card.png)
-* *2023*, [Year in Review Archetype](https://tsimaile.github.io/cv/assets/images/duolingo_2023_in_review_archetype_share_card.png)
+* *[2023](https://www.duolingo.com/year-in-review/2023?id=d81ad47c5f195d34ec09964cb825556996ddbf82b68e8cbf4ad5532f0acc6662)*, [Year in Review Stats](https://tsimaile.github.io/cv/assets/images/duolingo_2023_in_review_stats_share_card.png)
 
 ### **![LinkedIn logo](https://tsimaile.github.io/cv/assets/images/logo_16_lin.png) [LinkedIn Learning](https://www.linkedin.com/learning/)**
 * *2023*, [Learning Penetration Testing (2016)](https://www.linkedin.com/learning/certificates/d9145a38f43362779b5dc610ac37ac8df22c14ff59c1b9ff3729f5621f4219bf)
